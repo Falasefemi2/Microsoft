@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Falasefemi2/Microsoft/static/css/main.f21cf502.css",
+    "main.js": "/Falasefemi2/Microsoft/static/js/main.45dd51b1.js",
+    "static/media/this_holiday_1600.png": "/Falasefemi2/Microsoft/static/media/this_holiday_1600.c5bd92954f29aff98181.png",
+    "static/media/this_holiday_539.png": "/Falasefemi2/Microsoft/static/media/this_holiday_539.94184bf6247b6300be7e.png",
+    "static/media/hero_1600.png": "/Falasefemi2/Microsoft/static/media/hero_1600.6301f93342b20fa1aea2.png",
+    "static/media/hero_539.png": "/Falasefemi2/Microsoft/static/media/hero_539.96c15a3af04e1c97e598.png",
+    "static/media/game_pass_1600.png": "/Falasefemi2/Microsoft/static/media/game_pass_1600.af12d7455bda2e3b6e6a.png",
+    "static/media/game_pass_539.png": "/Falasefemi2/Microsoft/static/media/game_pass_539.6fd22b937f63f9b29371.png",
+    "index.html": "/Falasefemi2/Microsoft/index.html",
+    "main.f21cf502.css.map": "/Falasefemi2/Microsoft/static/css/main.f21cf502.css.map",
+    "main.45dd51b1.js.map": "/Falasefemi2/Microsoft/static/js/main.45dd51b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f21cf502.css",
+    "static/js/main.45dd51b1.js"
+  ]
+}
